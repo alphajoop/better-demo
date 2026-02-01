@@ -22,9 +22,8 @@ export default async function SignInPage() {
 
       <div className="relative hidden md:block">
         <div className="absolute inset-0 bg-black" />
-        <div className="absolute inset-0 bg-[url('/bg.svg')] bg-center bg-no-repeat opacity-15 bg-size-[auto_400px]" />
+        <div className="absolute inset-0 bg-[url('/bg.svg')] bg-center bg-no-repeat opacity-15 bg-size-[70%]" />
         <div className="absolute inset-0 bg-black/40" />
-        <div className="absolute inset-0 opacity-25 [background:radial-gradient(circle_at_top,white,transparent_45%)]" />
         <div className="relative flex h-full flex-col justify-between p-10 text-white">
           <div className="text-sm font-medium">better-demo</div>
           <div className="space-y-3">
